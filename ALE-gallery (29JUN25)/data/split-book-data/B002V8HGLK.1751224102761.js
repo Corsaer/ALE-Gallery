@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "A trip to the French Riviera should be a nice vacation for high school super-sleuth P.C. Hawke and his best friend Mackenzie. But when a woman is murdered at their hotel, P.C. and Mac can't just sit around and wait for the cops solve the crime."; 
